@@ -1,4 +1,4 @@
-# 🎲 Bingooo
+# Bingooo
 
 **Play. Compete. Win!**
 
@@ -9,18 +9,6 @@ A real-time multiplayer Bingo game with matchmaking, trophies, and a friend syst
 
 ---
 
-## 📱 Screenshots
-
-<p align="center">
-  <img src="screenshots/splash.png" width="200" alt="Splash Screen"/>
-  <img src="screenshots/home.png" width="200" alt="Home Screen"/>
-  <img src="screenshots/friends.png" width="200" alt="Add Friend"/>
-  <img src="screenshots/matchmaking.png" width="200" alt="Matchmaking"/>
-</p>
-<img width="1080" height="2400" alt="Screenshot_20250826_024931" src="https://github.com/user-attachments/assets/af4ac7f1-666f-40ef-9dd6-77ae26157622" />
-
-
----
 
 ## ✨ Features
 
